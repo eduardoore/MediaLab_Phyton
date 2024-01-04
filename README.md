@@ -10,3 +10,8 @@ this is a repo
 1. Mother
 2. Frances Ha
 3. Star Wars
+
+## Singers
+1. Grupo 5
+2. Chris Cornell
+3. The Beatles
